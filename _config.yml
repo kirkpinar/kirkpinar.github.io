@@ -1,5 +1,5 @@
 # Site settings
-title: "KIRKPINAR KOKOREÇ"
+title: "KIRKPINARKOKOREÇ"
 email: kirkpinarkokorec@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -14,8 +14,8 @@ email: kirkpinarkokorec@gmail.com
 facebook_username: 
 twitter_username:
 github_username:
-address: "ÜST KAHVELER KAVAKLI KIRKLARELİ" 
-  - line:
+address: "KAVAKLI" 
+  - line: "KIRKLARELİ"
   - line:
   # Feel free to add more lines here 
 telephone: "05426896900"
